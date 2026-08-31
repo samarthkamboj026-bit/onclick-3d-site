@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[880],{2880:function(e,n,l){l.r(n),l.d(n,{default:function(){return u}});var t=l(7437);let a=(0,l(166).default)(()=>l.e(995).then(l.bind(l,3995)),{loadableGenerated:{webpack:()=>[3995]},ssr:!1,loading:()=>null});function u(e){let{className:n}=e;return(0,t.jsx)("div",{className:n,children:(0,t.jsx)(a,{})})}}}]);
